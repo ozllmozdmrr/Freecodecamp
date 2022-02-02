@@ -1,0 +1,21 @@
+body {
+    background-color: #F5EDED;
+    color: #3E3636;
+  }
+  
+  #img-caption {
+    font-size:15px;
+    width:400px; 
+    margin:0 auto;
+  }
+  #tribute-info {
+    line-height:40px;
+    text-align:center;
+    font-size:40px;
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+    display:block;
+    margin:0 auto;
+  }
